@@ -60,7 +60,7 @@ bash
 
 Copy code
 
-git clone https://github.com/anashakeem/dynamic-resume.git
+git clone  https://github.com/anashakeem123/HAKATHON-MILESTONE-03.git
 
 Navigate to the project directory:
 
@@ -82,7 +82,7 @@ Push your project to a GitHub repository.
 
 Go to the repository settings and enable GitHub Pages.
 
-Your resume will be live at https://github.com/anashakeem123/HAKATHON-MILESTONE-03.git.
+Your resume will be live at https://hakathon-milestone-03.vercel.app/.
 
 **👨‍💻 Contributing**
 
