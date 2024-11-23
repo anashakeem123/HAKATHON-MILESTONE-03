@@ -82,7 +82,7 @@ Push your project to a GitHub repository.
 
 Go to the repository settings and enable GitHub Pages.
 
-Your resume will be live at https://<username>.github.io/<repository-name>/.
+Your resume will be live at https://github.com/anashakeem123/HAKATHON-MILESTONE-03.git.
 
 **👨‍💻 Contributing**
 
